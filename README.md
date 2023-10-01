@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact us at [foodforall@gmail.com](mailto:foodforall@gmail.com).
 
 # My Portfolio Page
 
@@ -63,7 +63,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or collaboration opportunities, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For inquiries or collaboration opportunities, please contact me at [shivampatil3008@gmail.com](mailto:shivampatil3008@gmail.com).
 
 # Calculator
 
@@ -96,5 +96,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact us at [shivampatil3008@gmail.com](mailto:shivampatil3008@gmail.com).
 
