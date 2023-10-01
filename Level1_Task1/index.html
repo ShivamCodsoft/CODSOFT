@@ -38,15 +38,15 @@
                 <h2>Help Us Make a Difference</h2>
                 <h2>Donate Here!</h2>
                 <label for="country">Enter Your Country:</label><br>
-                <input type="country"><br>
+                <input type="country" id="country"><br>
                 <label for="name">Enter Your Name:</label><br>
-                <input type="text"><br>
-                <label for="number">Enter Your Age:<br>
-                    <input type="number"><br>
-                    <label for="number">Enter Amount:</label><br>
-                    <input type="number"><br>
-                    <br>
-                    <button class="btn"><a href="#">Submit</a></button>
+                <input type="text" id="name"><br>
+                <label for="number" >Enter Your Age:<br>
+                <input type="number"id="number"><br>
+                <label for="number" >Enter Amount:</label><br>
+                <input type="number"id="amt"><br>
+                <br>
+                <button class="btn" id="submit"><a href="#">Submit</a></button>
             </div>
             <div class="c2">
                 <ul class="H">
@@ -105,6 +105,16 @@
             </div>
         </section>
     </main>
+    <script>
+        document.getElementById('submit').addEventListener('click', function (event) {
+            event.preventDefault(); 
+            document.getElementById('country').value = '';
+            document.getElementById('name').value = '';
+            document.getElementById('number').value = '';
+            document.getElementById('amt').value = '';
+        });
+    </script>
+
 </body>
 
 </html>
